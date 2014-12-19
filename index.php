@@ -11,7 +11,11 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
+        function sumer($x,$y){
+            return $x+$y;
+        }
+        //test function sumer
+        echo sumer(5, 7);
         ?>
     </body>
 </html>
