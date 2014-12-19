@@ -19,6 +19,7 @@ and open the template in the editor.
             return $x*$y;
         }
         //test for multi function
+        echo 'hi2';
          echo multi(3, 4);
         function mineses($x,$y){
             return $x-$y;
