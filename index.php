@@ -20,7 +20,11 @@ and open the template in the editor.
         }
         //test for multi function
          echo multi(3, 4);
+        function mineses($x,$y){
+            return $x-$y;
+        }
         //test function sumer
+        echo mineses(5, 2);
         echo sumer(5, 7);
         if(isset($_GET['msg'])){
             echo 'message is: '.$_GET['msg'];
