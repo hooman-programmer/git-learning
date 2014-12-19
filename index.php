@@ -23,7 +23,6 @@ and open the template in the editor.
         function mineses($x,$y){
             return $x-$y;
         }
-        echo 'hello';
         //test function sumer
         echo mineses(5, 2);
         echo sumer(5, 7);
