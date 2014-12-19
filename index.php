@@ -29,6 +29,7 @@ and open the template in the editor.
         if(isset($_GET['msg'])){
             echo 'message is: '.$_GET['msg'];
         }
+        echo 'hello2';
         ?>
     </body>
 </html>
