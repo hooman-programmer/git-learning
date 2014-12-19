@@ -8,7 +8,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>This is for learning and practice git with github!</title>
+        <title>This is for learning and practice git with github : git server!</title>
     </head>
     <body>
         <?php
