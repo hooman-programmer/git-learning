@@ -15,7 +15,12 @@ and open the template in the editor.
         function sumer($x,$y){
             return $x+$y;
         }
+        function mineses($x,$y){
+            return $x-$y;
+        }
+        
         //test function sumer
+        echo mineses(5, 2);
         echo sumer(5, 7);
         if(isset($_GET['msg'])){
             echo 'message is: '.$_GET['msg'];
