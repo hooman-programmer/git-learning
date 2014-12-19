@@ -16,6 +16,9 @@ and open the template in the editor.
         }
         //test function sumer
         echo sumer(5, 7);
+        if(isset($_GET['msg'])){
+            echo $_GET['msg'];
+        }
         ?>
     </body>
 </html>
